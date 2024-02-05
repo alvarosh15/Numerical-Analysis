@@ -1,4 +1,4 @@
-# Numerical-Methods-I
+# Numerical-Analysis
 
 In this repository you can find my implementation of the practices and exams of other years of the subject Numerical Methods I, in this repository you can find the implementation of algorithms such as the Regula-Falsi, Newton's algorithm that can be used to find roots of functions. 
 
